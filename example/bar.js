@@ -1,12 +1,12 @@
 /**
  * bar.js
  * simple bar chart lib
- * {date} - version 1.0
- * {url}
+ * 2.06.2018 - version 1.0
+ * https://github.com/igenex/simple-barchart
  * 
  * Copyright 2018 Eugene Sikirzhitsky
  * Released under the MIT Licence
- * {license url}
+ * https://github.com/igenex/simple-barchart/blob/master/LICENCE.md
  * 
  */
 
